@@ -1,0 +1,1 @@
+1. Write a program to check if a student passes or fails based on their score. If it require total 40% atleast 33% in each subject to pass. Assume 3 subject input taken by the users.
